@@ -2,6 +2,7 @@
 
 [![Boot.dev](https://media.licdn.com/dms/image/v2/D560BAQGNJxX2Q-Agmw/company-logo_200_200/company-logo_200_200/0/1686442351899/bootdotdev_logo?e=1755734400&v=beta&t=qHgrtbYBFX0x5prSgCRrrstH1fSe2bqg6oh3pFLKJng)](https://www.boot.dev/u/piercingdesire04)
 
+[![Boot.dev certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/be0585cb-77ee-4289-a42a-f9c95546a56a.jpeg?1753740590697)](https://www.boot.dev/certificates/be0585cb-77ee-4289-a42a-f9c95546a56a)
 <!--
 **HollowCrusader/HollowCrusader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
