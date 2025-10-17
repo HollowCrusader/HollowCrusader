@@ -8,7 +8,7 @@ I’m a DevOps-oriented software engineer specializing in **React**, **GraphQL**
 
 ## 🧠 What I Do
 - **DevOps & Infrastructure:** Docker, Jenkins, Terraform, Kubernetes on RHEL-based systems  
-- **Backend Development:** Node.js, Elysia.js, GraphQL Yoga, Prisma, Redis, PostgreSQL  
+- **Backend Development:** Node.js, GraphQL Yoga, Prisma, Redis, PostgreSQL  
 - **Frontend Engineering:** React + TypeScript, MUI, URQL, custom WebRTC video frameworks  
 - **Machine Learning:** MLOps pipelines, data mining, SLM-based AI orchestration  
 - **Accessibility R&D:** Building AI-powered captioning and sign-language tools for Deaf/HoH communities  
