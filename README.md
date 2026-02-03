@@ -52,19 +52,19 @@ I care deeply about **operability, clarity, and system correctness**, especially
 
 ## 🧩 Tech Stack
 
-**Languages** 
+**Languages**: 
 TypeScript, Python, Bash, SQL  
 
-**Backend & APIs** 
+**Backend & APIs**:
 GraphQL Yoga, FastAPI, Express, Prisma 
 
-**Databases & Data** 
+**Databases & Data**:
 PostgreSQL, Redis, MongoDB, DuckDB
 
-**Cloud & DevOps** 
+**Cloud & DevOps**: 
 Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Linux (RHEL-based environments)  
 
-**AI & Data Tooling (Applied)** 
+**AI & Data Tooling (Applied)**: 
 PyTorch, ONNX Runtime, TensorFlow (selective use), workflow orchestration tools  
 
 ---
