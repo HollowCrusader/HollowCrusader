@@ -1,6 +1,8 @@
-# 👋 Hi, I’m AaronJoel Parker [![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?logo=kubernetes)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f76d4105-928d-4224-ad24-ea9b92e74fb3-aaron-parker-3dcc81e7-5c80-48ff-a45e-28911be160fe-certificate.pdf)
+# 👋 Hi, I’m AaronJoel Parker 
 
 ### 💼 DevOps Engineer | Platform & Infrastructure Builder | Accessibility-Focused Engineer
+
+[![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?logo=kubernetes)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f76d4105-928d-4224-ad24-ea9b92e74fb3-aaron-parker-3dcc81e7-5c80-48ff-a45e-28911be160fe-certificate.pdf)
 
 I’m a DevOps-oriented engineer with a strong software engineering foundation, specializing in **containerized infrastructure**, **Kubernetes-based platforms**, and **modern backend systems**. My work focuses on building reliable, automation-first systems that support **real-time communication**, **data-intensive workflows**, and **accessibility-focused research platforms**.
 
@@ -66,6 +68,12 @@ Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Linux (RHEL-based enviro
 
 **AI & Data Tooling (Applied)**: 
 PyTorch, ONNX Runtime, TensorFlow (selective use), workflow orchestration tools  
+
+---
+
+## Certifications
+
+- **Certified Kubernetes Application Developer (CKAD)** — Cloud Native Computing Foundation (CNCF)
 
 ---
 
