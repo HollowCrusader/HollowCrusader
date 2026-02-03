@@ -1,42 +1,78 @@
-# 👋 Hi, I’m Aaron Joel Parker
+# 👋 Hi, I’m AaronJoel Parker
 
-### 💼 DevOps & Software Engineer | AI & MLOps Builder | Full-Stack Innovator
+### 💼 DevOps Engineer | Platform & Infrastructure Builder | Accessibility-Focused Engineer
 
-I’m a DevOps-oriented software engineer specializing in **React**, **GraphQL**, **PostgreSQL**, and **containerized cloud infrastructure**. My work bridges **software development**, **machine learning**, and **real-time streaming systems**, with a strong focus on accessibility and human-AI collaboration.
+I’m a DevOps-oriented engineer with a strong software engineering foundation, specializing in **containerized infrastructure**, **Kubernetes-based platforms**, and **modern backend systems**. My work focuses on building reliable, automation-first systems that support **real-time communication**, **data-intensive workflows**, and **accessibility-focused research platforms**.
 
----
-
-## 🧠 What I Do
-- **DevOps & Infrastructure:** Docker, Jenkins, Terraform, Kubernetes on RHEL-based systems  
-- **Backend Development:** Node.js, GraphQL Yoga, Prisma, Redis, PostgreSQL  
-- **Frontend Engineering:** React + TypeScript, MUI, URQL, custom WebRTC video frameworks  
-- **Machine Learning:** MLOps pipelines, data mining, SLM-based AI orchestration  
-- **Accessibility R&D:** Building AI-powered captioning and sign-language tools for Deaf/HoH communities  
+I care deeply about **operability, clarity, and system correctness**, especially in environments where reliability directly impacts users.
 
 ---
 
-## 🚀 Projects & Focus
-- **Glyphic CLI:** AI-driven DevOps automation and résumé generation toolkit  
-- **Insight Engine:** Machine-learning meta-analysis of small Deaf/HoH participant datasets  
-- **AI/SLM Networks:** Lightweight distributed agents using gRPC and container orchestration  
-- **VueCue XR:** Research-grade WebRTC/Ant Media platform for ASL and visual communication  
+## 🧠 What I Work On
+
+- **DevOps & Platform Engineering**
+  - Kubernetes-based application platforms (multi-tenant)
+  - CI/CD pipelines and deployment automation
+  - Linux-based infrastructure and containerized workloads
+ 
+- **Backend & Systems Engineering**
+  - Node.js services and GraphQL APIs
+  - PostgreSQL, Redis, and data-layer design
+  - Real-time and event-driven architectures
+
+- **Automation & Tooling**
+  - Infrastructure scripting and internal tooling
+  - CLI-based workflows for developer productivity
+  - GitHub Actions, Jenkins, Terraform (active use and expansion)
+
+- **Accessibility & Applied Research**
+  - Infrastructure and platforms supporting Deaf/HoH research
+  - Real-time video and communication systems
+  - Applied AI tooling used as an engineering accelerator, not a replacement
+
+---
+
+## 🚀 Selected Projects
+
+
+- **Glyphic CLI**  
+  CLI-first automation toolkit for developer workflows, résumé generation, and infrastructure-oriented scripting.
+
+- **VueCue XR**  
+  Research-grade WebRTC and real-time communication platform optimized for ASL, interpreters, and visual accessibility use cases.
+
+- **Insight Engine**  
+  Data analysis and ML-assisted workflows for small, high-signal research datasets in accessibility-focused studies.
+
+- **Distributed Agent Experiments**  
+  Lightweight, containerized service networks using gRPC and orchestration patterns to explore scalable automation and coordination.
+  
 
 ---
 
 ## 🧩 Tech Stack
-**Languages:** TypeScript, Python, Bash, SQL  
-**Frameworks:** React, MUI, GraphQL Yoga, FastAPI, Express, Prisma 
-**Databases:** PostgreSQL, Redis, MongoDB, DuckDB
-**Cloud & DevOps:** Docker, Kubernetes, Jenkins, Terraform, Oracle Cloud, RHEL  
-**AI/ML Tools:** ONNX Runtime, PyTorch, Tensorflow, Argo Workflows, Tekton  
+
+**Languages** 
+TypeScript, Python, Bash, SQL  
+
+**Backend & APIs** 
+GraphQL Yoga, FastAPI, Express, Prisma 
+
+**Databases & Data** 
+PostgreSQL, Redis, MongoDB, DuckDB
+
+**Cloud & DevOps** 
+Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Linux (RHEL-based environments)  
+
+**AI & Data Tooling (Applied)** 
+PyTorch, ONNX Runtime, TensorFlow (selective use), workflow orchestration tools  
 
 ---
 
-## 🎯 Current Goals
-- Building scalable **AI pipelines** with **SLM-as-Nucleus** architecture  
-- Expanding **Glyphic** into a full AI-powered developer platform  
-- Developing **open AI accessibility tools** for the Deaf community  
-- Turning **Houston into an AI innovation hub**
+## 🎯 Current Goals 
+- Designing a self-hosted, GitOps-style deployment workflow
+- Building open, infrastructure-backed accessibility tools for Deaf and Hard-of-Hearing communities
+- Deepening platform engineering and Kubernetes operational expertise
 
 ---
 
