@@ -1,4 +1,4 @@
-# 👋 Hi, I’m AaronJoel Parker
+# 👋 Hi, I’m AaronJoel Parker [![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?logo=kubernetes)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f76d4105-928d-4224-ad24-ea9b92e74fb3-aaron-parker-3dcc81e7-5c80-48ff-a45e-28911be160fe-certificate.pdf)
 
 ### 💼 DevOps Engineer | Platform & Infrastructure Builder | Accessibility-Focused Engineer
 
