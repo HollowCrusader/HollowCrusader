@@ -41,8 +41,8 @@ I’m a DevOps-oriented software engineer specializing in **React**, **GraphQL**
 ---
 
 ## 📫 Contact
-**GitHub:** [github.com/aaronjoelparker](https://github.com/aaronjoelparker)  
-**LinkedIn:** [linkedin.com/in/aaronjoelparker](https://linkedin.com/in/aaronjoelparker)
+**GitHub:** [github.com/aaronjoelparker](https://github.com/HollowCrusader)  
+**LinkedIn:** [linkedin.com/in/aaronjoelparker](https://www.linkedin.com/in/aaron-parker714/)
 
 ---
 
