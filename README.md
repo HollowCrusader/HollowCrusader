@@ -46,10 +46,6 @@ I care deeply about **operability, clarity, and system correctness**, especially
 - **Insight Engine**  
   Data analysis and ML-assisted workflows for small, high-signal research datasets in accessibility-focused studies.
 
-- **Distributed Agent Experiments**  
-  Lightweight, containerized service networks using gRPC and orchestration patterns to explore scalable automation and coordination.
-  
-
 ---
 
 ## 🧩 Tech Stack
